@@ -9,7 +9,7 @@ Mentor: Muzammil Ahmed <Br />
 
 ---
 
-# Blogging Site Project
+# Thinkker - Blogging Site
 
 ## Overview
 
