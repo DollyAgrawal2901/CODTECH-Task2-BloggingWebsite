@@ -13,7 +13,7 @@ Mentor: Muzammil Ahmed <Br />
 
 ## Overview
 
-This blogging site project is a full-featured platform designed to allow users to create, manage, and share blog posts seamlessly. Built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), it emphasizes user authentication, responsive design, and a user-friendly interface.
+Thinkker blogging site project is a full-featured platform designed to allow users to create, manage, and share blog posts seamlessly. Built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), it emphasizes user authentication, responsive design, and a user-friendly interface.
 
 ## Features
 
@@ -39,3 +39,15 @@ This blogging site project is a full-featured platform designed to allow users t
   - Express.js
   - MongoDB for database management
   - JWT for user authentication
+ 
+ ## Images of Project
+
+ 
+![image](https://github.com/user-attachments/assets/30fec732-04b9-4044-8c05-ca90e63585e7)   <br />   <br />
+![image](https://github.com/user-attachments/assets/39942204-c3e8-40f9-aa17-fc502471aef5)   <br />   <br />
+![image](https://github.com/user-attachments/assets/0657d096-60c4-4368-890e-50059b89dbed)   <br />   <br />
+![image](https://github.com/user-attachments/assets/c1ffc19d-14e0-4387-86dc-373e0308e474)   <br />   <br />
+
+
+
+
